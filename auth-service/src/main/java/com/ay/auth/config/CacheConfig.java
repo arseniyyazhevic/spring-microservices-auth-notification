@@ -1,4 +1,4 @@
-package config;
+package com.ay.auth.config;
 
 public class CacheConfig {
 }
