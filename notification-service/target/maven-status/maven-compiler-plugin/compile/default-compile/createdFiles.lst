@@ -1,0 +1,3 @@
+com\ay\notification\NotificationApplication.class
+com\ay\notification\service\EmailService.class
+com\ay\notification\controller\NotificationController.class
