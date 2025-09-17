@@ -1,8 +1,8 @@
 com\ay\auth\security\UserDetailsServiceImpl.class
 com\ay\auth\security\JwtFilter.class
 com\ay\auth\entity\User$UserBuilder.class
-com\ay\auth\security\SecurityConfig.class
 com\ay\auth\entity\User.class
+com\ay\auth\config\SecurityConfig.class
 com\ay\auth\repository\UserRepository.class
 com\ay\auth\dto\auth\AuthRequest.class
 com\ay\auth\dto\UserDto.class
