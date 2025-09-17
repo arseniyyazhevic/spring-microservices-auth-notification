@@ -81,7 +81,7 @@
                 <artifactId>flyway-maven-plugin</artifactId>
                 <version>9.22.0</version>
                 <configuration>
-                    <url>jdbc:postgresql://postgres:5432/auth-  db</url>
+                    <url>jdbc:postgresql://postgres:5432/auth-db</url>
                     <user>postgres</user>
                     <password>root</password>
                 </configuration>

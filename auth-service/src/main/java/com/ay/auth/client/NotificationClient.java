@@ -12,7 +12,7 @@ import java.util.Map;
 public class NotificationClient {
 
     private final RestTemplate restTemplate = new RestTemplate();
-    private final String notificationUrl = "http://localhost:8090/api/notifications"; // адрес NotificationService
+    private final String notificationUrl = "http://notification-service:8090/api/notifications";
 
     public void sendNotification(String subject, String text, String email) {
         Map<String, String> body = Map.of(
