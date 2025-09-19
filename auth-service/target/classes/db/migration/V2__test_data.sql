@@ -1,6 +1,6 @@
 INSERT INTO users (username, password, email, first_name, last_name, role)
 VALUES
-        ('admin', '$2a$13$rquoFdBjmQRf/6A/ZkPjxeJDBmRXYazNjF1doCsOSR3ayS0KSM5na', 'admin@gmail.com', 'System', 'Admin', 'ADMIN'),
+        ('admin', '$2a$13$rquoFdBjmQRf/6A/ZkPjxeJDBmRXYazNjF1doCsOSR3ayS0KSM5na', 'beautifulbirdocean@gmail.com', 'System', 'Admin', 'ADMIN'),
     ('user', '$2a$12$fRfnGfIOAsjJM6RSdiBspOfitQrf3sOPK8.iWUCCTKJkpJcMZdLO.', 'user@gmail.com', 'Test', 'User', 'USER'),
     ('john', '$2a$12$UcO3mMDaTdSS1w6WLUOdUejLVGg8Wk5FRijH9BmjGbywPYLm0QzA6', 'john.doe@gmail.com', 'John', 'Doe', 'USER'),
     ('jane', '$2a$12$JIWeytIZuMZYJjz1wt38Ju4pPcmuRrcugC8MciJua5D4v1qQNTuKi', 'jane.smith@gmail.com', 'Jane', 'Smith', 'USER'),
