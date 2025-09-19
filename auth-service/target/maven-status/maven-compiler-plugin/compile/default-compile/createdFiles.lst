@@ -1,4 +1,5 @@
 com\ay\auth\security\UserDetailsServiceImpl.class
+com\ay\auth\dto\NotificationRequest.class
 com\ay\auth\security\JwtFilter.class
 com\ay\auth\entity\User$UserBuilder.class
 com\ay\auth\entity\User.class
@@ -13,6 +14,5 @@ com\ay\auth\controller\AuthController.class
 com\ay\auth\client\NotificationClient.class
 com\ay\auth\controller\UserController.class
 com\ay\auth\AuthApplication.class
-com\ay\auth\config\CacheConfig.class
 com\ay\auth\enums\Role.class
 com\ay\auth\dto\auth\AuthResponse.class

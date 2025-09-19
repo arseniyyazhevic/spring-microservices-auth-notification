@@ -23,9 +23,17 @@ spring:
 
 logging:
   level:
-    org:
-      flyway=DEBUG:
+    root: INFO
+    com.ay.auth: DEBUG
+  file:
+    name: logs/auth-service.log
 
 jwt:
   secret: "YOUR_LONG_SECRET_KEY_AT_LEAST_32_BYTES"
   expiration: 36000000
+
+
+notification:
+  service:
+      url: "http://notification-service:8090/api/notifications"
+

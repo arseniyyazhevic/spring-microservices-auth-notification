@@ -7,9 +7,9 @@ C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\s
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\dto\auth\AuthRequest.java
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\controller\UserController.java
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\dto\auth\AuthResponse.java
-C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\config\CacheConfig.java
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\security\JwtUtil.java
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\service\UserService.java
+C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\dto\NotificationRequest.java
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\controller\AuthController.java
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\entity\User.java
 C:\Users\user\IdeaProjects\spring-microservices-auth-notification\auth-service\src\main\java\com\ay\auth\config\SecurityConfig.java
