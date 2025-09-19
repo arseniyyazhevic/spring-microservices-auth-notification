@@ -32,12 +32,13 @@ DB_PORT=5432
 ## 3) Сборка и запуск контейнеров
 (в корне, где лежит `docker-compose.yml`):
 ```bash
-docker compose build --no-cache
-docker compose up -d
+docker compose up --build
+
+Пароли от всех юзеров в таблице это username123. 
 ```
 
 ---
-
+Если не работает, то
 ## 4) Проверить состояние контейнеров
 ```bash
 docker compose ps
